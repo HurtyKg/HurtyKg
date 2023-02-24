@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/HurtyKg/3c7aca8675afe7f35136b7feb4254b87/raw/01a79ba83dd572a4f4bcdc042cfa60dc0a70e68c/card.svg"/>
+<img align="right" height="590em" 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Enzo Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
