@@ -32,7 +32,7 @@
 
 <br><br>
 
-## Stacks
+## Tecnologias
   
   <p align="left">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,7 +44,7 @@
   </p>
   
 
-## Contact
+## Contatos
 
 <p align="left" style="background:yellow">
 
