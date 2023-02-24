@@ -2,13 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Enzo Oliveira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥  Web Developer Jr starting programming 
+- 🔥  Desenvolvedor
 
-- 🔭 I’m currently working in freelancer(#openToWork)
+- 🔭 Recentemente tive a minha primeira experiência de trabalho como freelancer. (#openToWork)
 
-- 👨‍💻  HTML, CSS, ReactJs **
+- 👨‍💻  Atualmente meu Foco é ReactJs| JavaScript| TypesCript **
 
-- 🌱 I’m currently learning Nodejs, Firebase, Beekeeper...
+- 🌱 Mas Estou Estudando NodeJs| MongoDB| Postgress
 
 
 <!--
